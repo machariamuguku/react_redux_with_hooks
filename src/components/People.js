@@ -95,7 +95,7 @@ function App() {
           style={
             fetched
               ? { marginTop: "1%", marginLeft: "40%" }
-              : { marginTop: "20%", marginLeft: "40%" }
+              : { marginTop: "15%", marginLeft: "40%" }
           }
         >
           <Col span={4} offset={3}>
