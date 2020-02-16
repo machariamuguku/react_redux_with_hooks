@@ -24,7 +24,7 @@ export default function App() {
             target="_blank"
           >
             <h3>
-              www.muguku.co.ke{"\u00A0"}
+              <span style={{ color: "blue" }}>www.muguku.co.ke</span>{"\u00A0"}
               <img src={copyright} alt="copyright" height={13} width={13} />
               {new Date().getFullYear()},{"\u00A0"}All rights reserved{" "}
             </h3>
