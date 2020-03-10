@@ -14,7 +14,13 @@ This is a simple tutorial (boilerplate code), on getting started with React Redu
 clone, install dependencies and run
 
 ```bash
-git clone https://github.com/machariamuguku/react_redux_with_hooks.git && yarn && yarn start
+git clone https://github.com/machariamuguku/react_redux_with_hooks.git
+
+cd react_redux_with_hooks
+
+yarn
+
+yarn start
 ```
 
 ## License
